@@ -1,5 +1,6 @@
-i
+
 My Telegram Bot
+
 A simple telegram bot built with Python that integrstes with OpenAI's API
 to provide AI-powered conversational responses. 
 This project demonstrates how to connect Telegram's Bot API with OpenAI GPT
